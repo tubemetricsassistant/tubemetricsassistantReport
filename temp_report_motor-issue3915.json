@@ -1,0 +1,101 @@
+{
+  "reportId": "3dbc71bc-603f-46f4-8cb7-b46ae886f632",
+  "shareToken": "motor-issue3915-20260220-f7ee6a", 
+  "shareUrl": "https://tubemetrics.io/reports/motor-issue3915-20260220-f7ee6a",
+  "channelTitle": "Motor-Issue3915",
+  "channelHandle": "@btfbeyondtheframes",
+  "analysis": {
+    "channelAnalysis": {
+      "overallHealth": {
+        "score": 45,
+        "rating": "Fair",
+        "summary": "The channel is experiencing moderate performance with sporadic engagement and inconsistent uploads."
+      },
+      "contentStrategy": {
+        "strengths": [
+          "Diverse content pillars",
+          "Unique niche focus"
+        ],
+        "weaknesses": [
+          "Inconsistent upload schedule", 
+          "Low audience engagement"
+        ],
+        "recommendations": [
+          "Establish a regular upload schedule",
+          "Engage with audience through comments and Q&A sessions"
+        ]
+      },
+      "growthOpportunities": {
+        "shortTerm": [
+          "Increase video frequency to weekly uploads",
+          "Run a viewer poll to determine popular content topics"
+        ],
+        "longTerm": [
+          "Collaborate with similar niche creators to expand reach",
+          "Invest in targeted promotions for key videos"
+        ]
+      },
+      "topicSaturation": {
+        "score": 60,
+        "level": "Medium",
+        "analysis": "The niche is moderately saturated, with some topics having high competition but others remaining relatively underserved.",
+        "opportunities": [
+          "Explore trending topics within the niche",
+          "Focus on less common aspects of existing popular subjects"
+        ]
+      }
+    },
+    "videoAnalyses": [],
+    "recommendations": [
+      {
+        "priority": "High",
+        "action": "Establish a regular upload schedule",
+        "expectedImpact": "Increased audience retention and improved channel authority"
+      },
+      {
+        "priority": "High", 
+        "action": "Increase video frequency to weekly uploads",
+        "expectedImpact": "Enhanced audience engagement and potential subscriber growth"
+      },
+      {
+        "priority": "High",
+        "action": "Engage with audience through comments and Q&A sessions", 
+        "expectedImpact": "Improved community connection and increased viewer loyalty"
+      },
+      {
+        "priority": "Medium",
+        "action": "Run a viewer poll to determine popular content topics",
+        "expectedImpact": "More targeted content creation leading to higher viewer satisfaction"
+      },
+      {
+        "priority": "Medium",
+        "action": "Collaborate with similar niche creators to expand reach",
+        "expectedImpact": "Access to new audiences and potential subscriber increase"
+      },
+      {
+        "priority": "Medium", 
+        "action": "Explore trending topics within the niche",
+        "expectedImpact": "Attraction of new viewers interested in timely content"
+      },
+      {
+        "priority": "Low",
+        "action": "Invest in targeted promotions for key videos",
+        "expectedImpact": "Increased visibility for selected content, potentially augmenting views"
+      },
+      {
+        "priority": "Low",
+        "action": "Focus on less common aspects of existing popular subjects",
+        "expectedImpact": "Differentiation from competitors and attraction of niche audiences"
+      }
+    ],
+    "generatedAt": "2026-02-20T03:54:58.515Z"
+  },
+  "detectionContext": {
+    "redditPost": "https://www.reddit.com/r/Smallyoutubechannels/comments/1r87iil/im_so_close_to_50_subscribers_since_december_btw/",
+    "commentAuthor": "Motor-Issue3915",
+    "detectedIntent": "High - Frustration + Confusion + Help Request",
+    "channelLink": "https://youtube.com/@btfbeyondtheframes?si=zOy_XndWdyQJIfXO",
+    "subscribers": "38",
+    "timeStuck": "Since December"
+  }
+}
