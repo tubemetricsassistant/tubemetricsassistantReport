@@ -1,0 +1,88 @@
+{
+  "reportId": "acbb79c5-86d4-4c2b-b7ec-a807b8fc06d1",
+  "shareToken": "triswentmopar-20260220-b4aa0b",
+  "shareUrl": "https://tubemetrics.io/reports/triswentmopar-20260220-b4aa0b",
+  "channelTitle": "Triswentmopar",
+  "analysis": {
+    "channelAnalysis": {
+      "overallHealth": {
+        "score": 45,
+        "rating": "Poor",
+        "summary": "The channel is struggling with engagement and consistency, leading to stagnant growth."
+      },
+      "contentStrategy": {
+        "strengths": [
+          "Niche focus on Mopar vehicles",
+          "Unique content angles that resonate with car enthusiasts"
+        ],
+        "weaknesses": [
+          "Inconsistent upload schedule",
+          "Limited content variety beyond core topics"
+        ],
+        "recommendations": [
+          "Establish a regular posting schedule",
+          "Diversify content types, including tutorials and Q&A sessions"
+        ]
+      },
+      "growthOpportunities": {
+        "shortTerm": [
+          "Increase posting frequency to at least bi-weekly",
+          "Engage with audience in comments to boost interaction"
+        ],
+        "longTerm": [
+          "Collaborate with other automotive channels for cross-promotion",
+          "Develop a community-driven series that encourages viewer participation"
+        ]
+      },
+      "videoPerformanceSummary": [],
+      "topicSaturation": {
+        "score": 60,
+        "level": "Medium",
+        "analysis": "The automotive niche has a moderate amount of content creators focusing on Mopar, but there is room for unique approaches.",
+        "opportunities": [
+          "Create in-depth reviews of classic Mopar models",
+          "Launch a series on Mopar restoration projects"
+        ]
+      }
+    },
+    "videoAnalyses": [],
+    "recommendations": [
+      {
+        "priority": "High",
+        "action": "Establish a regular posting schedule with at least bi-weekly uploads.",
+        "expectedImpact": "Improved consistency will enhance audience engagement and retention."
+      },
+      {
+        "priority": "High", 
+        "action": "Engage with your audience in the comments section of your videos.",
+        "expectedImpact": "Boosted interaction will foster community and increase viewer loyalty."
+      },
+      {
+        "priority": "Medium",
+        "action": "Diversify content types by including tutorials and Q&A sessions.",
+        "expectedImpact": "Attracting a broader audience by offering varied content can lead to increased views and subscribers."
+      },
+      {
+        "priority": "Medium",
+        "action": "Collaborate with other automotive channels for cross-promotion.",
+        "expectedImpact": "Expanding reach to new audiences can accelerate channel growth."
+      },
+      {
+        "priority": "Medium", 
+        "action": "Create in-depth reviews of classic Mopar models.",
+        "expectedImpact": "Positioning as an authority in the niche can attract dedicated car enthusiasts."
+      },
+      {
+        "priority": "Low",
+        "action": "Launch a series on Mopar restoration projects.",
+        "expectedImpact": "Providing valuable content that resonates with DIY enthusiasts can enhance engagement and grow the viewer base."
+      },
+      {
+        "priority": "Low",
+        "action": "Develop a community-driven series that encourages viewer participation.",
+        "expectedImpact": "Fostering viewer involvement can create a stronger community connection and increase recurring viewership."
+      }
+    ],
+    "generatedAt": "2026-02-20T04:26:01.954Z"
+  }
+}
