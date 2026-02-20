@@ -1,0 +1,58 @@
+{
+  "videoId": "uFKsaS4UD9I",
+  "reportId": "459f4146-639d-49fe-ad25-bfa17ddcf720",
+  "analysis": {
+    "titleCtrStrength": {
+      "score": 75,
+      "rating": "Strong",
+      "analysis": "The title effectively uses curiosity-inducing language and includes relevant keywords, creating a good emotional trigger for viewers. It falls within the ideal length range and succinctly conveys the video's main topic, which should enhance click-through rates.",
+      "suggestions": [
+        "Consider incorporating a power word to enhance emotional engagement.",
+        "Try to include a specific benefit that viewers will gain from watching."
+      ]
+    },
+    "thumbnailClarityScore": {
+      "score": 80,
+      "rating": "Good",
+      "analysis": "The thumbnail presents clear visuals that align with the title. The high contrast between elements makes it easily readable, even in smaller sizes, which is critical for attracting clicks.",
+      "suggestions": [
+        "Add a brief textual element to highlight the video's key point.",
+        "Ensure the image is not overcrowded to maintain focus on the main subject."
+      ]
+    },
+    "competitorTitlePatterns": {
+      "patterns": [
+        "How to [achieve X] in [timeframe]",
+        "The secret to [desired outcome]",
+        "Top [number] tips for [topic]"
+      ],
+      "recommendations": [
+        "Explore using 'How to' formats for instructional content.",
+        "Consider making list-style titles more prevalent, as they tend to attract viewers."
+      ],
+      "topPerformingFormats": [
+        "Listicles",
+        "How-to guides"
+      ]
+    },
+    "topicSaturation": {
+      "score": 65,
+      "level": "Medium",
+      "analysis": "The topic is moderately saturated, with a good number of creators covering similar content. However, there are still avenues to explore deeper insights or niche angles that are currently underrepresented.",
+      "opportunities": [
+        "Identify specific sub-topics that have not been extensively covered.",
+        "Leverage unique personal experiences or case studies to differentiate from competitors."
+      ]
+    },
+    "hookAlignment": {
+      "score": 70,
+      "rating": "Average",
+      "analysis": "The hook in the title aligns reasonably well with the content delivered. However, there could be slight discrepancies where viewers may expect more in-depth exploration based on the title's promise.",
+      "suggestions": [
+        "Ensure that key points promised in the title are clearly highlighted early in the video.",
+        "Consider refining the title to better reflect the most valuable content within the video."
+      ]
+    }
+  },
+  "generatedAt": "2026-02-20T05:03:15.110Z"
+}
