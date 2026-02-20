@@ -1,0 +1,90 @@
+{
+  "channel": "@chillratnz",
+  "channelTitle": "chillratnz",
+  "analysisDate": "2026-02-20T04:19:40.110Z",
+  "publicReportUrl": "https://tubemetrics.io/reports/chillratnz-20260220-5a7a8a",
+  "reportId": "529a6734-77aa-401d-be1a-766e51cf0b5c",
+  "shareToken": "chillratnz-20260220-5a7a8a",
+  "channelAnalysis": {
+    "overallHealth": {
+      "score": 55,
+      "rating": "Fair",
+      "summary": "The channel shows potential but lacks consistent content and engagement."
+    },
+    "contentStrategy": {
+      "strengths": [
+        "Engaging visuals",
+        "Niche-specific themes"
+      ],
+      "weaknesses": [
+        "Inconsistent upload schedule",
+        "Limited video variety"
+      ],
+      "recommendations": [
+        "Establish a regular posting schedule",
+        "Diversify content pillars to attract broader audience"
+      ]
+    },
+    "growthOpportunities": {
+      "shortTerm": [
+        "Post at least one video per week for consistency",
+        "Engage with audience through community posts"
+      ],
+      "longTerm": [
+        "Collaborate with similar channels for cross-promotion",
+        "Develop series content to increase viewer retention"
+      ]
+    },
+    "topicSaturation": {
+      "score": 40,
+      "level": "Low",
+      "analysis": "The niche is relatively underserved, offering opportunities for unique content.",
+      "opportunities": [
+        "Explore relaxed storytelling formats",
+        "Create themed playlists for better user navigation"
+      ]
+    }
+  },
+  "recommendations": [
+    {
+      "priority": "High",
+      "action": "Establish a regular posting schedule",
+      "expectedImpact": "Increased viewer engagement and channel growth through consistency"
+    },
+    {
+      "priority": "High", 
+      "action": "Post at least one video per week for consistency",
+      "expectedImpact": "Building a loyal audience and improving algorithm performance"
+    },
+    {
+      "priority": "Medium",
+      "action": "Diversify content pillars to attract broader audience", 
+      "expectedImpact": "Attracting new viewers and retaining current ones through varied interests"
+    },
+    {
+      "priority": "Medium",
+      "action": "Engage with the audience through community posts",
+      "expectedImpact": "Enhanced viewer connection and feedback opportunities, leading to better content alignment"
+    },
+    {
+      "priority": "Medium", 
+      "action": "Create themed playlists for better user navigation",
+      "expectedImpact": "Improved viewer retention and watch time through organized content"
+    },
+    {
+      "priority": "Low",
+      "action": "Explore relaxed storytelling formats",
+      "expectedImpact": "Unique content offerings that differentiate the channel within the niche"
+    },
+    {
+      "priority": "Low",
+      "action": "Collaborate with similar channels for cross-promotion",
+      "expectedImpact": "Increased exposure and subscriber growth through shared audiences"
+    },
+    {
+      "priority": "Low",
+      "action": "Develop series content to increase viewer retention",
+      "expectedImpact": "Encourages viewers to return for subsequent videos, boosting channel loyalty"
+    }
+  ]
+}
